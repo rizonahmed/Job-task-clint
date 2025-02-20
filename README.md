@@ -1,4 +1,4 @@
-# TaskMate
+# JobTask
 TaskMate is a modern task management application built with React and Vite. It features a drag-and-drop interface, real-time updates, and a clean, intuitive design for managing your daily tasks efficiently.
 
 ## 🔗 Live Links
