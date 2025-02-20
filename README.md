@@ -1,8 +1,63 @@
-# React + Vite
+# TaskMate
+TaskMate is a modern task management application built with React and Vite. It features a drag-and-drop interface, real-time updates, and a clean, intuitive design for managing your daily tasks efficiently.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔗 Live Links
+- **Frontend:** [https://job-task-13f1d.web.app/login](#)
+- **Backend:** [https://task-mate-server-gold.vercel.app](#)
 
-Currently, two official plugins are available:
+## ✨ Features
+- Drag-and-drop task management
+- Real-time task updates
+- Google authentication
+- Responsive design
+- Task categorization (To-Do, In Progress, Done)
+- Edit and delete tasks
+- Modern UI with animations
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+### Frontend:
+- React 18
+- Vite
+- TailwindCSS
+- React Query (TanStack Query)
+- React DND (@hello-pangea/dnd)
+- Firebase Authentication
+- Axios
+- SweetAlert2
+- React Hot Toast
+
+### Backend:
+- Node.js
+- Express
+- MongoDB
+- JWT Authentication
+- Cors
+
+## 📦 Installation
+### Clone the repository:
+```bash
+git clone <repository-url>
+```
+### Install dependencies:
+#### Frontend:
+```bash
+cd frontend
+npm install
+```
+#### Backend:
+```bash
+cd backend
+npm install
+```
+### Run the application:
+#### Frontend:
+```bash
+npm run dev
+```
+#### Backend:
+```bash
+npm start
+```
+
+Now, you can access TaskMate and start managing your tasks efficiently!
+
